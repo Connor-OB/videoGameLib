@@ -1,0 +1,30 @@
+{
+  "name": "gameLib",
+  "main": "index.js",
+  "homepage": "https://github.com/Connor-OB/gameLib",
+  "authors": [
+    "Connor-OB <connorsuobrien@gmail.com>"
+  ],
+  "description": "Video game Library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "782711476ab623bf5a3ffbf846b046bed2d9f8bc"
+  },
+  "_source": "https://github.com/Connor-OB/gameLib.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Connor-OB/gameLib.git"
+}
