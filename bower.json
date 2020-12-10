@@ -1,5 +1,5 @@
 {
-  "name": "gameLib",
+  "name": "bower install --save lodash",
   "main": "index.js",
   "homepage": "https://github.com/Connor-OBLib",
   "authors": [
@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "lodash": "^4.17.20",
-    "gameLib": "https://github.com/Connor-OBLib.git"
+    "game-lib": "https://github.com/Connor-OBLib.git"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "gameLib",
+  "name": "game-lib",
   "main": "index.js",
-  "homepage": "https://github.com/Connor-OB/gameLib",
+  "homepage": "https://github.com/Connor-OB/game-lib",
   "authors": [
     "Connor-OB <connorsuobrien@gmail.com>"
   ],
@@ -24,7 +24,7 @@
     "tag": "v0.0.1",
     "commit": "782711476ab623bf5a3ffbf846b046bed2d9f8bc"
   },
-  "_source": "https://github.com/Connor-OB/gameLib.git",
+  "_source": "https://github.com/Connor-OB/game-lib.git",
   "_target": "*",
-  "_originalSource": "https://github.com/Connor-OB/gameLib.git"
+  "_originalSource": "https://github.com/Connor-OB/game-lib.git"
 }
