@@ -1,11 +1,11 @@
 {
-  "name": "bower install --save lodash",
+  "name": "bower install--save lodash",
   "main": "index.js",
-  "homepage": "https://github.com/Connor-OBLib",
+  "homepage": "https://github.com/Connor-OB/videoGameLib",
   "authors": [
-    "Connor-OB <connorsuobrien@gmail.com>"
+    "Connor-OB"
   ],
-  "description": "Video game Library",
+  "description": "Video Game Library",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -17,5 +17,9 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "game-lib": "https://github.com/Connor-OBLib.git"
-  }
+  },
+  "keywords": [
+    "Game",
+    "Library"
+  ]
 }
